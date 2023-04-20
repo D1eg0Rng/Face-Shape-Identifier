@@ -1,4 +1,4 @@
-# Face-Shape-Identifier
+# Face-Shape-Finder
 ![image](https://user-images.githubusercontent.com/122308669/233490995-75416e12-fe68-4b32-8ff9-81c49d32071f.png)
 
 # Business Understanding:
