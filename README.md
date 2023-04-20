@@ -1,4 +1,5 @@
 # Face-Shape-Identifier
+![image](https://user-images.githubusercontent.com/122308669/233490995-75416e12-fe68-4b32-8ff9-81c49d32071f.png)
 
 # Business Understanding:
 The goal of this project was to help the online eyewear retailer, Zenni Optical, provide a better service to its customers by implementing an AI-powered feature that identifies face shapes. This feature would help customers find the right glasses for their face shape more easily and accurately, improving their overall shopping experience.
@@ -9,7 +10,7 @@ The goal of this project was to help the online eyewear retailer, Zenni Optical,
 # Data Understanding:
 The dataset used for this project was sourced from Kaggle and contains 5000 images of female celebrities categorized according to their face shape - Heart, Oblong, Oval, Round, and Square.
 
-![png-transparent-kaggle-predictive-modelling-data-science-business-predictive-analytics-数据-blue-text-laboratory-thumbnail](https://user-images.githubusercontent.com/122308669/233488086-9a0af328-f903-477a-abb8-d5315131c625.png)
+![Kaggle_logo](https://user-images.githubusercontent.com/122308669/233490742-05c48b5c-bf3e-4830-b01f-d452e1e57f3d.png)
 ![Screenshot 2023-04-19 131642](https://user-images.githubusercontent.com/122308669/233488012-17ff7593-6258-4ff4-9c87-af5dfbe1e69f.png)
 
 # Preprocessing:
